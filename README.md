@@ -92,7 +92,7 @@ This project implements a simple **8-channel quiz buzzer system** using an **805
 
 **Pramod Singh**  
 Electronics Enthusiast | Embedded Developer  
-[LinkedIn](https://www.https://www.linkedin.com/in/pramodsnz/) | [GitHub](https://https://github.com/Pramodsnz01)
+[LinkedIn](https://www.linkedin.com/in/pramodsnz/) | [GitHub](https://github.com/Pramodsnz01)
 
 ---
 
